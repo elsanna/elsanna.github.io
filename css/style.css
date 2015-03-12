@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+div .notes{
+	margin: 10px 0;
+	padding: 10px;
+	color: red;
+	background-color: #fae1eb
+}
+
+div .pageNum{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+div .topImg{
+	background-color: #00ff00;
+}
